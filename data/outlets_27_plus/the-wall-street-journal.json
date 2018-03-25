@@ -1,0 +1,2278 @@
+{
+    "articles": {
+        "results": [
+            {
+                "id": "9889907",
+                "uri": "828071244",
+                "lang": "eng",
+                "isDuplicate": true,
+                "date": "2018-03-09",
+                "time": "03:11:00",
+                "dateTime": "2018-03-09T03:11:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/trump-accepts-invitation-to-meet-north-korea-kim-jong-un/1B49D5D1-9986-4724-B1DF-7249022F0A78.html",
+                "title": "Trump Accepts Invitation to Meet North Korea's Kim Jong Un",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize",
+                        "id": "313752",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.015986905960249,
+                                "testPopFq": 254,
+                                "nullPopFq": 3218
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "9823767",
+                "uri": "827852403",
+                "lang": "eng",
+                "isDuplicate": true,
+                "date": "2018-03-08",
+                "time": "10:50:00",
+                "dateTime": "2018-03-08T10:50:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/why-a-16-year-old-russian-has-joined-his-countrys-election-protests/131A5B87-9789-47D4-B499-C2AF49E43EAC.html",
+                "title": "Why a 16-Year-Old Russian Has Joined His Country's Election Protests",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize",
+                        "id": "313752",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.015986905960249,
+                                "testPopFq": 254,
+                                "nullPopFq": 3218
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "9847408",
+                "uri": "827929788",
+                "lang": "eng",
+                "isDuplicate": false,
+                "date": "2018-03-06",
+                "time": "23:00:00",
+                "dateTime": "2018-03-06T23:00:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/how-russian-trolls-collected-americans-personal-information/01CF89A7-4BD5-44BF-AB0A-35958ABB5492.html",
+                "title": "How Russian Trolls Collected Americans' Personal Information",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize",
+                        "id": "313752",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.015986905960249,
+                                "testPopFq": 254,
+                                "nullPopFq": 3218
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "9484371",
+                "uri": "826855798",
+                "lang": "eng",
+                "isDuplicate": false,
+                "date": "2018-03-05",
+                "time": "23:00:00",
+                "dateTime": "2018-03-05T23:00:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/can-the-democrats-ride-a-blue-wave-to-midterm-election-wins/6C686BD7-EA86-40A8-88EB-794C078E109C.html",
+                "title": "Can the Democrats Ride a Blue Wave to Midterm Election Wins?",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize",
+                        "id": "313752",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.015986905960249,
+                                "testPopFq": 254,
+                                "nullPopFq": 3218
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "8311003",
+                "uri": "823355662",
+                "lang": "eng",
+                "isDuplicate": true,
+                "date": "2018-03-01",
+                "time": "17:25:00",
+                "dateTime": "2018-03-01T17:25:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/putin-displays-video-appearing-to-show-new-nuclear-weapons/37220B06-39DE-42AB-A517-4B4C2824E56D.html",
+                "title": "Putin Displays Video Appearing to Show New Nuclear Weapons",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize",
+                        "id": "313752",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.015986905960249,
+                                "testPopFq": 254,
+                                "nullPopFq": 3218
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "8271399",
+                "uri": "823217759",
+                "lang": "eng",
+                "isDuplicate": false,
+                "date": "2018-03-01",
+                "time": "13:36:00",
+                "dateTime": "2018-03-01T13:36:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/film-clip-red-sparrow/1A1A683B-50A6-4FDC-BBE2-864835678343.html",
+                "title": "Film Clip: 'Red Sparrow'",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize",
+                        "id": "313752",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.015986905960249,
+                                "testPopFq": 254,
+                                "nullPopFq": 3218
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "7760818",
+                "uri": "821752038",
+                "lang": "eng",
+                "isDuplicate": true,
+                "date": "2018-02-27",
+                "time": "18:41:00",
+                "dateTime": "2018-02-27T18:41:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/jerome-powell-economic-outlook-has-improved-since-december/714D8188-FB5C-4746-91E1-EA8343055C86.html",
+                "title": "Jerome Powell: Economic Outlook Has Improved Since December",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize_in_Literature",
+                        "id": "324681",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize in Literature"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.621630542422852,
+                                "testPopFq": 97,
+                                "nullPopFq": 936
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "7622036",
+                "uri": "821357172",
+                "lang": "eng",
+                "isDuplicate": true,
+                "date": "2018-02-27",
+                "time": "11:17:00",
+                "dateTime": "2018-02-27T11:17:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/amazons-alexa-leaves-consumer-brands-speechless/D46A54CE-6DF8-46D2-BFE4-93094F5F9A58.html",
+                "title": "Amazon's Alexa Leaves Consumer Brands Speechless",
+                "body": "2/16/2018 9:58AM\n\nAutomation is finally coming into fashion, with sewing robots that can produce clothes faster than human hands. In this episode of Moving Upstream, WSJ's Jason Bellini takes a look at the latest technology and what it means for the 60 million people who work in the garment industry. Photo: Ismail Ferdous for The Wall Street Journal\n\n2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM 1/18/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 3,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Automation",
+                        "id": "307920",
+                        "type": "wiki",
+                        "score": 4,
+                        "label": {
+                            "eng": "Automation"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -6.053826531059848,
+                                "testPopFq": 366,
+                                "nullPopFq": 4106
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Upstream_(petroleum_industry)",
+                        "id": "309709",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Upstream (petroleum industry)"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 14,
+                                "nullPopFq": 82
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Computers/Robotics",
+                        "id": 27,
+                        "label": "dmoz/Computers/Robotics",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Computers/Robotics/Companies",
+                        "id": 591,
+                        "label": "dmoz/Computers/Robotics/Companies",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Five-Pin",
+                        "id": 4431,
+                        "label": "dmoz/Sports/Bowling/Five-Pin",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "7727316",
+                "uri": "821644429",
+                "lang": "eng",
+                "isDuplicate": false,
+                "date": "2018-02-26",
+                "time": "19:11:00",
+                "dateTime": "2018-02-26T19:11:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/meet-the-millionaire-kids-shaping-the-toy-industry/539A33E4-E7C3-4E20-BC51-FE5835372448.html",
+                "title": "Meet the Millionaire Kids Shaping the Toy Industry",
+                "body": "2/27/2018 10:00AM\n\nDoes a decades-long rise in suicide among white Americans signal an emerging crisis for U.S. capitalism and democracy? Nobel Prize-winning economist Angus Deaton and his wife, fellow Princeton Prof. Anne Case, share their provocative theory with WSJ's Jason Bellini in this episode of Moving Upstream. Photo: Getty\n\n2/16/2018 9:58AM 2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/United_States",
+                        "id": "231",
+                        "type": "loc",
+                        "score": 3,
+                        "label": {
+                            "eng": "United States"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.67987399985927,
+                                "testPopFq": 32613,
+                                "nullPopFq": 263041
+                            }
+                        },
+                        "location": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Democracy",
+                        "id": "303868",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Democracy"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -3.14398522866738,
+                                "testPopFq": 6068,
+                                "nullPopFq": 51719
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Economist",
+                        "id": "306968",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Economist"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 3.678004385265166,
+                                "testPopFq": 1377,
+                                "nullPopFq": 10209
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Princeton_University",
+                        "id": "313457",
+                        "type": "org",
+                        "score": 2,
+                        "label": {
+                            "eng": "Princeton University"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -7.301974945441902,
+                                "testPopFq": 119,
+                                "nullPopFq": 1880
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Capitalism",
+                        "id": "316345",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Capitalism"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.911758290840696,
+                                "testPopFq": 543,
+                                "nullPopFq": 4825
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Nobel_Prize_in_Literature",
+                        "id": "324681",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Nobel Prize in Literature"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -1.621630542422852,
+                                "testPopFq": 97,
+                                "nullPopFq": 936
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Angus_Deaton",
+                        "id": "569089",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Angus Deaton"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 1,
+                                "nullPopFq": 66
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 2,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/White_Americans",
+                        "id": "1254421",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "White Americans"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 28,
+                                "nullPopFq": 458
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Arts/Writers_Resources/Contests",
+                        "id": 1040,
+                        "label": "dmoz/Arts/Writers Resources/Contests",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Society/Death/Suicide",
+                        "id": 1831,
+                        "label": "dmoz/Society/Death/Suicide",
+                        "wgt": 10
+                    },
+                    {
+                        "uri": "dmoz/Society/Politics/Democracy",
+                        "id": 2055,
+                        "label": "dmoz/Society/Politics/Democracy",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 7
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "7276443",
+                "uri": "820376506",
+                "lang": "eng",
+                "isDuplicate": false,
+                "date": "2018-02-25",
+                "time": "16:55:00",
+                "dateTime": "2018-02-25T16:55:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/galaxy-s9-samsung-bets-big-on-the-camera/BB6E92FF-87EC-4373-BC7D-4CD40DC00964.html",
+                "title": "Galaxy S9: Samsung Bets Big on the Camera",
+                "body": "2/16/2018 9:58AM\n\nAutomation is finally coming into fashion, with sewing robots that can produce clothes faster than human hands. In this episode of Moving Upstream, WSJ's Jason Bellini takes a look at the latest technology and what it means for the 60 million people who work in the garment industry. Photo: Ismail Ferdous for The Wall Street Journal\n\n2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM 1/18/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 3,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Automation",
+                        "id": "307920",
+                        "type": "wiki",
+                        "score": 4,
+                        "label": {
+                            "eng": "Automation"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -6.053826531059848,
+                                "testPopFq": 366,
+                                "nullPopFq": 4106
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Upstream_(petroleum_industry)",
+                        "id": "309709",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Upstream (petroleum industry)"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 14,
+                                "nullPopFq": 82
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Computers/Robotics",
+                        "id": 27,
+                        "label": "dmoz/Computers/Robotics",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Computers/Robotics/Companies",
+                        "id": 591,
+                        "label": "dmoz/Computers/Robotics/Companies",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Five-Pin",
+                        "id": 4431,
+                        "label": "dmoz/Sports/Bowling/Five-Pin",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            },
+            {
+                "id": "3825873",
+                "uri": "816859280",
+                "lang": "eng",
+                "isDuplicate": false,
+                "date": "2018-02-20",
+                "time": "16:19:00",
+                "dateTime": "2018-02-20T16:19:00Z",
+                "sim": 0,
+                "url": "http://www.wsj.com/video/6-tips-for-surviving-the-new-snapchat/1A18E880-546D-4158-9D39-EA4219E17677.html",
+                "title": "6 Tips for Surviving the New Snapchat",
+                "body": "2/16/2018 9:58AM\n\nAutomation is finally coming into fashion, with sewing robots that can produce clothes faster than human hands. In this episode of Moving Upstream, WSJ's Jason Bellini takes a look at the latest technology and what it means for the 60 million people who work in the garment industry. Photo: Ismail Ferdous for The Wall Street Journal\n\n2/1/2018 5:30AM 1/29/2018 5:30AM 1/22/2018 5:30AM 1/18/2018 5:30AM",
+                "source": {
+                    "id": "229",
+                    "uri": "wsj.com",
+                    "title": "The Wall Street Journal",
+                    "location": {
+                        "type": "place",
+                        "label": {
+                            "eng": "New York City"
+                        },
+                        "country": {
+                            "type": "country",
+                            "label": {
+                                "eng": "United States"
+                            }
+                        }
+                    },
+                    "locationValidated": true
+                },
+                "concepts": [
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/The_Wall_Street_Journal",
+                        "id": "307864",
+                        "type": "org",
+                        "score": 3,
+                        "label": {
+                            "eng": "The Wall Street Journal"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 2.550507404318429,
+                                "testPopFq": 1176,
+                                "nullPopFq": 8937
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Automation",
+                        "id": "307920",
+                        "type": "wiki",
+                        "score": 4,
+                        "label": {
+                            "eng": "Automation"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": -6.053826531059848,
+                                "testPopFq": 366,
+                                "nullPopFq": 4106
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Upstream_(petroleum_industry)",
+                        "id": "309709",
+                        "type": "wiki",
+                        "score": 3,
+                        "label": {
+                            "eng": "Upstream (petroleum industry)"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 14,
+                                "nullPopFq": 82
+                            }
+                        }
+                    },
+                    {
+                        "uri": "http://en.wikipedia.org/wiki/Jason_Bellini",
+                        "id": "652149",
+                        "type": "person",
+                        "score": 3,
+                        "label": {
+                            "eng": "Jason Bellini"
+                        },
+                        "trendingScore": {
+                            "news": {
+                                "score": 0,
+                                "testPopFq": 0,
+                                "nullPopFq": 1
+                            }
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "uri": "dmoz/Computers/Robotics",
+                        "id": 27,
+                        "label": "dmoz/Computers/Robotics",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Computers/Robotics/Companies",
+                        "id": 591,
+                        "label": "dmoz/Computers/Robotics/Companies",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Five-Pin",
+                        "id": 4431,
+                        "label": "dmoz/Sports/Bowling/Five-Pin",
+                        "wgt": 8
+                    },
+                    {
+                        "uri": "dmoz/Sports/Racquetball/Players",
+                        "id": 5293,
+                        "label": "dmoz/Sports/Racquetball/Players",
+                        "wgt": 9
+                    },
+                    {
+                        "uri": "dmoz/Sports/Bowling/Personal_Pages",
+                        "id": 5295,
+                        "label": "dmoz/Sports/Bowling/Personal Pages",
+                        "wgt": 8
+                    }
+                ],
+                "eventUri": null,
+                "location": null,
+                "wgt": 1
+            }
+        ],
+        "totalResults": 11,
+        "page": 1,
+        "count": 11,
+        "pages": 1
+    }
+}
